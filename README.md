@@ -27,14 +27,14 @@ There are also some useful methods in the class. You can open the source code, t
 Enjoy!
 
 ## FAQ
-Q: What is the GPT version? 3.5 or 4 or something?
-A: It's ChatGPT 3.5. I haven't found any free GPT4 app online to hack :)
+__Q:__ What is the GPT version? 3.5 or 4 or something?<br>
+__A:__ It's ChatGPT 3.5. I haven't found any free GPT4 app online to hack :)
 
-Q: When will it collapse / run out of money for token?
-A: I don't know. Maybe someday, so use it with responsibility and don't abuse it
+__Q:__ When will it collapse / run out of money for token?<br>
+__A:__ I don't know. Maybe someday, so use it with responsibility and don't abuse it
 
-Q: Do you own the site that host the free ChatGPT web interface?
-A: __NO__. This module and I have nothing associated with the original web interface/app in the link I provided above.
+__Q:__ Do you own the site that host the free ChatGPT web interface?<br>
+__A:__ __NO__. This module and I have nothing associated with the original web interface/app in the link I provided above.
 
-Q: How do you find this?
-A: Long story. I tried every single app on Google Play that claim to offer free ChatGPT, and found this one have the most stable interface. Before this, I use Fiddler to get token from Evolly free ChatGPT, but that app stucks now (It has has SSL certificate pin using Firebase.). If you can hack it, you will get a Firebase database contain real OpenAI key(s). So might worth trying for you, but I'm just too lazy since I already got this :)
+__Q:__ How do you find this?<br>
+__A:__ Long story. I tried every single app on Google Play that claim to offer free ChatGPT, and found this one have the most stable interface. Before this, I use Fiddler to get token from Evolly free ChatGPT, but that app stucks now (It has has SSL certificate pin using Firebase.). If you can hack it, you will get a Firebase database contain real OpenAI key(s). So might worth trying for you, but I'm just too lazy since I already got this :)
