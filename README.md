@@ -2,8 +2,8 @@
 Free ChatGPT API from a random app (but it doesn't set quota on your message), wrapped in Python
 
 ## Summary
-- There is a free ChatGPT web interface at `https://chat.mindtastik.com/test3/`, which (at least for now) offer free ChatGPT chat without any quota or ads
-- This module wrap its API
+- There is a free ChatGPT web interface at [`https://chat.mindtastik.com/test3/`](https://chat.mindtastik.com/test3/), which (at least for now) offer free ChatGPT chat without any quota or ads
+- This module wraps its API
 
 ## Dependencies
 - [`requests`](https://pypi.org/project/requests/)
